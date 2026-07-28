@@ -6,7 +6,7 @@
 ### Eco Ruta: Sistema de Gestión de Logística de Recolección de Residuos 
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/Hyuukai/Readme/refs/heads/main/Isologo%20(1).png>
+  <img src=https://raw.githubusercontent.com/Synin-i/EcoRuta/refs/heads/main/Isologo%20(1).png>
 </p>
 
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
